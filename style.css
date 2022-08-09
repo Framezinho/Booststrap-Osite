@@ -1,0 +1,33 @@
+header{
+    height: 200px;
+    background-color: rebeccapurple;
+
+}
+
+main{
+    height: 200px;
+    background-color: red;
+}
+
+aside{
+    height: 200px;
+    background-color: blue;
+}
+
+aside section{
+background-color: aqua;
+    height: 50px;
+}
+ 
+main section{
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    
+}
+
+
+
+footer{
+    height: auto;
+    background-color: greenyellow;
+}
