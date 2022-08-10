@@ -1,33 +1,42 @@
 header{
     height: 200px;
-    background-color: rebeccapurple;
+    background-color: #D5FEFF;
 
 }
 
 main{
-    height: 200px;
-    background-color: red;
+    height:850px;
+    background-color: #9CC2E7;
 }
 
 aside{
-    height: 200px;
-    background-color: blue;
+    height: 850px;
+    background-color:#789FE4;
 }
 
 aside section{
-background-color: aqua;
-    height: 50px;
+background-color:#789FE4;
+    height: auto;
 }
  
 main section{
-    background-color: rgb(0, 0, 0);
+    background-color:#9CC2E7;
     height: auto;
     
+}
+
+#Img{
+    height: 250px;
+    width: 250px;
 }
 
 
 
 footer{
     height: auto;
-    background-color: greenyellow;
+    background-color: #D5FEFF;
+}
+
+h6{
+    text-align: center;
 }
